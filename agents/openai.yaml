@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目接手与经验进化"
+  short_description: "读取和更新项目上下文，让新会话快速接手并沉淀复用经验"
+  default_prompt: "Use $project-ramp-evolver to ramp into this project and update reusable session notes."
+policy:
+  allow_implicit_invocation: true
